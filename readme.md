@@ -1,5 +1,3 @@
-<h1>component</h1><br>
-
 `cargo run`<br>
 ````
 (from terminal)
