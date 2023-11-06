@@ -1,4 +1,4 @@
-#Tower component for regex based bct systems in rust.<br>
+##Tower component for regex based bct systems in rust.<br>
 `cargo run`<br>
 ````
 (from terminal)
