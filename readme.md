@@ -1,3 +1,4 @@
+main.rs writes a binary tower given input of disk size, "disks" are a reference to the tower of hanoi, output is one line.
 `cargo run`<br>
 ````
 (from terminal)
