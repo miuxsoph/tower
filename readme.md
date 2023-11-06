@@ -1,4 +1,4 @@
-<h1>Tower component for regex based bct systems in rust.</h1><br>
+<h1>component</h1><br>
 
 `cargo run`<br>
 ````
